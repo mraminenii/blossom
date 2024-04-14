@@ -1,5 +1,5 @@
 # Blossom
-## _Blossoming relationships between hair professionals and their clientele_
+### _Blossoming relationships between hair professionals and their clientele_
 
 Blossom is a mobile app empowering hair professionals to tailor recommendations accurately, thereby boosting client loyalty, reducing waste, and shifting towards customization.
 
